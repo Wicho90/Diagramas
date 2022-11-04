@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T02:02:03.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="azByD8WgoALWQv-7ev1W" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T02:03:01.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9uweopEs-1oQS7XPZDUi" version="20.5.0" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1093" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1AXarEj6DeR1PKGoGcP6-45" value="«Componente»&lt;br&gt;&lt;b&gt;Servidor&lt;/b&gt;" style="html=1;dropTarget=0;fillColor=#660033;gradientColor=#1A1A1A;strokeColor=#b85450;gradientDirection=north;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="1AXarEj6DeR1PKGoGcP6-45" value="«Componente»&lt;br&gt;&lt;b&gt;Servidor&lt;/b&gt;" style="html=1;dropTarget=0;fillColor=#660033;gradientColor=#1A1A1A;strokeColor=#1A1A1A;gradientDirection=north;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="450" y="230" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1AXarEj6DeR1PKGoGcP6-46" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#1A1A1A;" vertex="1" parent="1AXarEj6DeR1PKGoGcP6-45">
@@ -12,7 +12,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1AXarEj6DeR1PKGoGcP6-47" value="«Componente»&lt;br&gt;&lt;b&gt;AppWeb&lt;/b&gt;" style="html=1;dropTarget=0;fillColor=#0066CC;gradientColor=#3399FF;strokeColor=#b85450;gradientDirection=south;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="1AXarEj6DeR1PKGoGcP6-47" value="«Componente»&lt;br&gt;&lt;b&gt;AppWeb&lt;/b&gt;" style="html=1;dropTarget=0;fillColor=#0066CC;gradientColor=#3399FF;strokeColor=#1A1A1A;gradientDirection=south;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="20" y="230" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1AXarEj6DeR1PKGoGcP6-48" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#1A1A1A;" vertex="1" parent="1AXarEj6DeR1PKGoGcP6-47">
@@ -20,7 +20,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1AXarEj6DeR1PKGoGcP6-49" value="«Componente»&lt;br&gt;&lt;b&gt;DB NoSQL&lt;/b&gt;" style="html=1;dropTarget=0;fillColor=#CCCC00;gradientColor=#FFFF00;strokeColor=#b85450;gradientDirection=south;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="1AXarEj6DeR1PKGoGcP6-49" value="«Componente»&lt;br&gt;&lt;b&gt;DB NoSQL&lt;/b&gt;" style="html=1;dropTarget=0;fillColor=#CCCC00;gradientColor=#FFFF00;strokeColor=#1A1A1A;gradientDirection=south;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="450" y="-40" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1AXarEj6DeR1PKGoGcP6-50" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#1A1A1A;" vertex="1" parent="1AXarEj6DeR1PKGoGcP6-49">
@@ -28,7 +28,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1AXarEj6DeR1PKGoGcP6-51" value="«Componente»&lt;br&gt;&lt;b&gt;Esp32&lt;/b&gt;" style="html=1;dropTarget=0;fillColor=#CC0000;gradientColor=#FF0000;strokeColor=#b85450;gradientDirection=south;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="1AXarEj6DeR1PKGoGcP6-51" value="«Componente»&lt;br&gt;&lt;b&gt;Esp32&lt;/b&gt;" style="html=1;dropTarget=0;fillColor=#CC0000;gradientColor=#FF0000;strokeColor=#1A1A1A;gradientDirection=south;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="870" y="230" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1AXarEj6DeR1PKGoGcP6-52" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#1A1A1A;" vertex="1" parent="1AXarEj6DeR1PKGoGcP6-51">
